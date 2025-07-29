@@ -78,12 +78,6 @@ Estimated Total Cost: **$176 USD (~₹14,700)**
 
 ---
 
-## Notes
-
-This project was built with HackClub’s spirit of learning-by-making. It’s beginner-friendly but dives deep into real electronics and mechanical integration. Improvements can include a live-streaming camera, AI tracking, or sonar modules.
-
----
-
 ## License
 
 This project is open-source under the MIT License.
