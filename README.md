@@ -17,6 +17,8 @@ This is a low-cost, advanced RC submarine designed for underwater robotics and S
 - 6-7 Days Build Timeline
 
 ---<img width="1536" height="1024" alt="ChatGPT Image Jul 29, 2025, 04_57_19 PM" src="https://github.com/user-attachments/assets/aa8bd55f-718a-4b47-9c5b-e648d5fd32e5" />
+<img width="1907" height="1111" alt="Screenshot 2025-07-29 175733" src="https://github.com/user-attachments/assets/137520f0-b5d7-41b5-9c69-8e5a82a02db1" />
+
 
 
 ## Project Timeline (6 Days)
