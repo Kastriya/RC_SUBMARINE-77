@@ -21,37 +21,31 @@ This is a low-cost, advanced RC submarine designed for underwater robotics and S
 
 
 
-## Project Timeline (6 Days)
-
-### **Day 1 – Research & Planning**
-- Finalized submarine concept
-- Listed required materials
-- Designed initial sketches and control structure
-
-### **Day 2 – Electronics Setup**
-- Assembled Arduino, ESC, motors, and LiPo battery
-- Tested ESC and propeller logic
-- Verified motor directions
-
-### **Day 3 – 3D Designing**
-- Designed hull and components in Fusion 360
-- Created water-tight compartments
-- Finalized printable STL files
-
-### **Day 4 – 3D Printing & Assembly**
-- Printed outer body and propeller mounts
-- Sealed joints using epoxy and O-rings
-- Mounted motor and shaft
-
-### **Day 5 – Wiring and Waterproofing**
-- Completed internal wiring
-- Waterproofed electronics with silicone gel
-- Installed leak sensors and tested
-
-### **Day 6 – Testing & Debugging**
-- Dry run and tank testing
-- Adjusted buoyancy
-- Remote range test and responsiveness check
+📅 6-Day Build Log
+📆 Day 1: Research & Sketching
+Researched torpedo-style and modular submarines
+Studied ballast systems, waterproofing, and RC controls
+Sketched a hybrid hull + electronics chamber model
+📆 Day 2: Hull Design + Material Planning
+Designed initial cylindrical hull with round edges
+Planned PLA waterproof printing & internal compartments
+Finalized OpenSCAD STL scripting plan
+📆 Day 3: Electronics BOM Planning
+Selected core components: ESC, Brushless motor, RX-TX
+Focused on LiPo safety and compact wiring
+Added LEDs and camera slot ideas
+📆 Day 4: CAD + 3D Modelling
+Designed the hull and rear propeller shaft system
+Modeled front dome and rear control fin slots
+Prepped STL export files for printing
+📆 Day 5: Budgeting & Grant Justification
+Created BOM in USD under $200
+Wrote README and justification for HackClub grant
+Focused on modular design for future upgrades
+📆 Day 6: Documentation and Final Touches
+Finalized GitHub README
+Added diagrams and wiring overview
+Cleaned STL files and exported for print test
 
 ---
 
