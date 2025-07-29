@@ -8,7 +8,7 @@ This is a low-cost, open-source **RC Submarine** designed for exploration, robot
 
 ## 🧠 Objectives
 
-- Build a fully functional RC submarine under $150.
+- Build a fully functional RC submarine under $200.
 - Integrate camera, sensors, and wireless control.
 - Waterproof electronics using DIY enclosures.
 - Make STL parts open-source and modular.
