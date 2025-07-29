@@ -75,6 +75,10 @@ Estimated Total Cost: **$176 USD (~₹14,700)**
 | **Phase 6: Water Test**             | 3 Days       | Shallow testing + tweaks                | Small bucket test first → then pool → test buoyancy, leak check, video, depth sensor           |
 | **Phase 7: Final Tuning**           | 2–3 Days     | Add lights, stabilize control           | PID tuning (if needed), tune IMU data, improve signal strength, backup tether setup            |
 
+🎯 Why This Deserves a Grant:
+🔥 "We're not just building a robot — we're opening the deep waters to young minds who otherwise never imagined being marine innovators. One project. One submarine. A whole new world unlocked."
+
+🚀 With your grant, I will turn this submarine into a replicable open-source project — complete with STL files, code, assembly guides, and documentation — allowing anyone, anywhere in the world to build their own underwater explorer.
 
 ## License
 
