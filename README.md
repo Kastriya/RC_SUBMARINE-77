@@ -64,7 +64,7 @@ This is a low-cost, advanced RC submarine designed for underwater robotics and S
 - SG90 Servo (for rudder)
 - NRF24L01 Wireless Module
 - 3D Printer (PLA filament)
-- Fusion 360 / TinkerCAD
+- Fusion 360 / TinkerCAD / OpenSCAD
 - Waterproof Sealants
 - Miscellaneous wires, tubing, screws
 
