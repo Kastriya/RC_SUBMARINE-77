@@ -5,6 +5,7 @@
 This is a low-cost, advanced RC submarine designed for underwater robotics and STEM learning. The project is meant to be submitted for a HackClub grant and includes smart control, 3D printed body, and sensor integration.
 
 ---
+<img width="600" height="333" alt="2f815423-4aff-486b-aad0-247c102af4b6_removalai_preview" src="https://github.com/user-attachments/assets/d8b53d92-61f5-4964-a4e9-11b543a289d3" />
 
 ## Features
 
@@ -15,7 +16,8 @@ This is a low-cost, advanced RC submarine designed for underwater robotics and S
 - Depth and Leak Sensors
 - 6-7 Days Build Timeline
 
----
+---<img width="1536" height="1024" alt="ChatGPT Image Jul 29, 2025, 04_57_19 PM" src="https://github.com/user-attachments/assets/aa8bd55f-718a-4b47-9c5b-e648d5fd32e5" />
+
 
 ## Project Timeline (6 Days)
 
