@@ -19,6 +19,23 @@ This is a low-cost, advanced RC submarine designed for underwater robotics and S
 ---<img width="1536" height="1024" alt="ChatGPT Image Jul 29, 2025, 04_57_19 PM" src="https://github.com/user-attachments/assets/aa8bd55f-718a-4b47-9c5b-e648d5fd32e5" />
 <img width="1907" height="1111" alt="Screenshot 2025-07-29 175733" src="https://github.com/user-attachments/assets/137520f0-b5d7-41b5-9c69-8e5a82a02db1" />
 
+This project aims to build a compact, WiFi-controlled submarine equipped with an ESP32-CAM for live First-Person View (FPV) streaming. It uses brushless waterproof motors for propulsion and servo-controlled fins for steering. The submarine will also log environmental data such as water temperature, depth (via pressure sensor), and motion (via IMU) to an onboard SD card for analysis.
+
+The system is wireless but includes a tether fallback for power or control in case of signal loss. Designed with an acrylic waterproof body, custom 3D-printed parts, and epoxy-sealed electronics, the sub can perform basic underwater maneuvers and real-time monitoring.
+
+🧩 Key Features:
+| Feature                | Component Used                 | Purpose                              |
+| ---------------------- | ------------------------------ | ------------------------------------ |
+| FPV Video Streaming    | ESP32-CAM                      | Real-time video wirelessly           |
+| Wireless Control       | ESP32 / Mobile app (future)    | Submarine movement                   |
+| Propulsion             | Waterproof Brushless DC Motors | Forward and reverse motion           |
+| Steering Control       | SG90 Servo Motors              | Pitch and yaw adjustments            |
+| Depth Sensing          | BMP280 / MS5803                | Pressure-based water depth detection |
+| Temperature Monitoring | DS18B20 Waterproof Sensor      | Logs water temperature               |
+| Orientation Control    | MPU6050 IMU                    | Detect and correct tilt and motion   |
+| Data Logging           | SD Card Module + 16GB SD Card  | Stores sensor data                   |
+| Waterproof Body        | Acrylic Tube + O-rings + Epoxy | Ensures leak-proof underwater use    |
+| Emergency Tether       | Ethernet/Custom Cable          | Power and signal backup              |
 
 
 📅 6-Day Build Log
