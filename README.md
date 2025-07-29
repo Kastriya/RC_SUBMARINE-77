@@ -11,7 +11,7 @@ This is a low-cost, advanced RC submarine designed for underwater robotics and S
 
 - Wireless Remote-Controlled Navigation
 - Waterproof 3D Printed Hull
-- Camera Integration (Optional)
+- Camera Integration 
 - Arduino-based Smart Control System
 - Depth and Leak Sensors
 - 6-7 Days Build Timeline
