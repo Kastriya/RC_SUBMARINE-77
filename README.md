@@ -78,6 +78,18 @@ Estimated Total Cost: **$176 USD (~₹14,700)**
 
 ---
 
+✅ PHASE-WISE MASTER PLAN (4 Weeks Build)
+| **Phase**                           | **Duration** | **Focus**                               | **Goals**                                                                                      |
+| ----------------------------------- | ------------ | --------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Phase 1: Design + Research**      | 3 Days       | Understanding systems & waterproofing   | Finalize design, list all STL parts, check working voltages, sketch wiring, plan inside layout |
+| **Phase 2: Procurement**            | 3-4 Days     | Order & collect parts                   | Purchase all electronics, waterproof motors, LiPo, acrylic tube, O-rings, sealants             |
+| **Phase 3: Electronics + Code**     | 5 Days       | Soldering + ESP32-CAM + sensors setup   | ESP32-CAM live streaming, test sensors (temp, IMU, pressure), servo testing                    |
+| **Phase 4: Mechanical Build**       | 5 Days       | 3D print & waterproof the body          | Print STL mounts, assemble tube + caps, epoxy sealings, mount motor shafts, servo positions    |
+| **Phase 5: Integration & Dry Test** | 4 Days       | Fit everything, run tests outside water | Dry test all electronics together, SD logging, camera, motors, IMU orientation                 |
+| **Phase 6: Water Test**             | 3 Days       | Shallow testing + tweaks                | Small bucket test first → then pool → test buoyancy, leak check, video, depth sensor           |
+| **Phase 7: Final Tuning**           | 2–3 Days     | Add lights, stabilize control           | PID tuning (if needed), tune IMU data, improve signal strength, backup tether setup            |
+
+
 ## License
 
 This project is open-source under the MIT License.
