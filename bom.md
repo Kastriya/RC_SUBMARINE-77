@@ -11,8 +11,8 @@
 | DS18B20 Waterproof Sensor        | 1   | ₹200        | \$2.41      | Temperature sensing         | Logs water temperature       |
 | BMP280 / MS5803                  | 1   | ₹500        | \$6.02      | Depth (pressure) sensing    | Accurate water pressure      |
 | MPU6050 IMU                      | 1   | ₹250        | \$3.01      | Stabilization + motion      | Orientation control          |
-| Waterproof LEDs                  | 2   | ₹120        | \$1.45      | Lighting                    | Optional but cool            |
-| Tether Cable (Ethernet/custom)   | 1   | ₹300        | \$3.61      | Control + power fallback    | Use if wireless fails        |
+| Waterproof LEDs                  | 2   | ₹120        | \$1.45      | Lighting                    | for cool effect              |
+| Tether Cable (Ethernet/custom)   | 1   | ₹300        | \$3.61      | Control + power fallback    | Use of this if wireless fails|
 | SD Card Module + 16GB SD Card    | 1   | ₹250        | \$3.01      | Sensor data logging         | Logs depth/temp/IMU etc.     |
 | Miscellaneous (wires, screws)    | 1   | ₹500        | \$6.02      | Build & wiring              | General hardware             |
 
