@@ -46,7 +46,7 @@ This is a low-cost, open-source **RC Submarine** designed for exploration, robot
 ---
 
 ### 📆 Day 5: Budgeting & Grant Justification  
-- Created BOM in USD under $150  
+- Created BOM in USD under $200  
 - Wrote README and justification for HackClub grant  
 - Focused on modular design for future upgrades
 
