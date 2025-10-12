@@ -35,3 +35,24 @@ Finalized OpenSCAD STL scripting plan
 
   
 
+## 10/12/2025 10:43 PM - Budgeting & Grant Justification  
+
+Created BOM in USD under $200
+Wrote README and justification for HackClub grant
+Focused on modular design for future upgrades
+
+Finalized GitHub README
+Added diagrams and wiring overview
+Cleaned STL files and exported for print test
+
+Features
+Wireless Remote-Controlled Navigation
+Waterproof 3D Printed Hull
+Camera Integration
+Arduino-based Smart Control System
+Depth and Leak Sensors
+6-7 Days Build Timeline
+
+![471974989-d8b53d92-61f5-4964-a4e9-11b543a289d3.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--ae58524b3adedf9fb72e7fc90bd1bcfba7f281d4/471974989-d8b53d92-61f5-4964-a4e9-11b543a289d3.png)
+  
+
