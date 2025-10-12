@@ -10,7 +10,7 @@ This is my journal of the design and building process of **RC_SUBMARINE-77**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/449).
 
 
-## 10/12/2025 - PLANNINGS  
+## 10/12/2025 10:36 PM - PLANNINGS  
 
 What I did: Researched how RC submarines work, different propulsion systems, and control methods. Decided to use a 77 cm PVC tube as the main hull and a pump-based ballast system for diving.
 
@@ -20,5 +20,18 @@ Challenges: Finding affordable waterproof components and understanding ballast c
 
 
 ![471975022-aa8bd55f-718a-4b47-9c5b-e648d5fd32e5.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--bb5dfaec4c7e138aecab8a8c3e591046f247a6a7/471975022-aa8bd55f-718a-4b47-9c5b-e648d5fd32e5.png)
+  
+
+## 10/12/2025 10:39 PM - MAKING OF STL OF FILES  
+
+Designed the hull and rear propeller shaft system
+Modeled front dome and rear control fin slots
+Prepped STL export files for printing
+Designed initial cylindrical hull with round edges
+Planned PLA waterproof printing & internal compartments
+Finalized OpenSCAD STL scripting plan
+
+![471991313-137520f0-b5d7-41b5-9c69-8e5a82a02db1.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--ba75244ace74f5eb2c72459a3fa88e7d7f8b0a3c/471991313-137520f0-b5d7-41b5-9c69-8e5a82a02db1.png)
+
   
 
