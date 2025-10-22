@@ -4,6 +4,8 @@
 
 This is a low-cost, advanced RC submarine designed for underwater robotics and STEM learning. The project is meant to be submitted for a HackClub grant and includes smart control, 3D printed body, and sensor integration.
 
+![collins-class](https://github.com/user-attachments/assets/4595ccff-ef88-419d-bbb1-ca628896320e)
+
 ---
 <img width="600" height="333" alt="2f815423-4aff-486b-aad0-247c102af4b6_removalai_preview" src="https://github.com/user-attachments/assets/d8b53d92-61f5-4964-a4e9-11b543a289d3" />
 
